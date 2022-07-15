@@ -6,7 +6,7 @@
 ### I'm a student and Front End Developer
 - ✍ You can find my projects [here](https://github.com/rominana/projectportfolio).
 - 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m now learning Javascript.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
