@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 3 languages ( English, Spanish & Spanish).
+- ⚡ Fun fact: I speak 3 languages ( English, Spanish & Portuguese).
 
 
 ### You can find me on
