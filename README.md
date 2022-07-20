@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Romina</h1>
 <h3 align="center">I'm @microverse student, Front-End Developer and mate fanatic 🧉 | Spanglish</h3>
 
-<p align="left"> <a href="https://twitter.com/romina_pati" target="blank"><img src="https://img.shields.io/twitter/follow/romina_pati?logo=twitter&style=for-the-badge" alt="romina_pati" /></a> </p>
-
 - 🔭 I’m currently working on **my personal portfolio**
 
 - 🌱 I’m currently learning **javascript**
