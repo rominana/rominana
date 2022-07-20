@@ -6,4 +6,6 @@ I'm a Information Systems Analyst and Front-end developer from Paraguay , who lo
 I mainly code in Javascript, and I fell in love with Next.js, React, and many other web frameworks. I am constantly learning new things 💭. 
 You can find me on [Twitter](https://twitter.com/romina_pati) or [Linkedin](https://www.linkedin.com/in/romina-patino/).
 
+---
+
 ![ROMINANA github stats](https://github-readme-stats.vercel.app/api?username=ROMINANA&show_icons=true&hide_border=true)
