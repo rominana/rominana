@@ -5,7 +5,7 @@ Information Systems Analyst and software development student at [@microverse](ht
 
 #### What I'm focusing on 👨‍💻
 
-Currently improving my Javascript Skills<br />
+Currently improving my Javascript skills and learning React ⚛️ <br />
 
 #### Find me elsewhere 🌎
 
